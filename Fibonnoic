@@ -80,4 +80,3 @@ int main() {
     printf("After two dequeues, Front item is: %d\n", Front(q));
     printf("After two dequeues, Rear item is: %d\n", Rear(q));
     return 0;
-}
